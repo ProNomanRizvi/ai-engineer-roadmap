@@ -29,19 +29,19 @@ Imagine a movie recommendation app. A user searches for **"space adventure movie
 
 ## Three AI Terms with My Own Examples
 
-### 1. Prompt
-
-A prompt is the instruction we give to an AI model.
-
-**Example:**  
-I ask an AI, *"Write a professional LinkedIn summary for a Machine Learning Engineer."* The sentence I give is the prompt.
-
-### 2. Token
+### 1. Token
 
 A token is a small piece of text that an AI reads and processes.
 
 **Example:**  
 When I type **"Learn Python step by step"**, the AI breaks the sentence into smaller pieces (tokens) before understanding and generating a response.
+
+### 2. Hallucination
+
+Hallucination happens when an AI gives an answer that sounds correct but is actually wrong or made up.
+
+**Example:**  
+I ask an AI for the release date of a software tool. Instead of saying it does not know, it invents a fake date and a fake version number. The answer looks believable, but it is incorrect.
 
 ### 3. Embedding
 

@@ -12,3 +12,11 @@ A hospital wants an AI assistant for doctors.
 ## Career Alignment
 
 This roadmap matches my career goal because I am already working as an ML intern, and it helps me strengthen my Python, machine learning, software engineering, and AI development skills while building real-world projects that prepare me for a full-time Machine Learning Engineer role.
+
+## Why Inference Is Important for an AI Engineer
+
+Inference is important because AI Engineers build applications that use already trained models to solve real-world problems. Instead of training a model from the beginning, they focus on sending user requests to the model, getting accurate responses, and making the AI feature fast, reliable, and useful.
+
+**Embeddings Example**
+
+Imagine a movie recommendation app. A user searches for **"space adventure movies"**. Even if those exact words are not stored in the database, embeddings can find movies with similar meaning, such as **Interstellar**, **The Martian**, or **Gravity**, because they compare the meaning of the text instead of matching exact words.

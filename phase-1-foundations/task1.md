@@ -20,3 +20,32 @@ Inference is important because AI Engineers build applications that use already 
 **Embeddings Example**
 
 Imagine a movie recommendation app. A user searches for **"space adventure movies"**. Even if those exact words are not stored in the database, embeddings can find movies with similar meaning, such as **Interstellar**, **The Martian**, or **Gravity**, because they compare the meaning of the text instead of matching exact words.
+
+## AI vs AGI
+
+**AI (Artificial Intelligence)** is designed to perform specific tasks. It can do those tasks very well, but it cannot think or learn outside its trained purpose.
+
+**AGI (Artificial General Intelligence)** would be able to learn, understand, and solve many different kinds of problems like a human. It could adapt to new situations without being trained separately for every task.
+
+## Three AI Terms with My Own Examples
+
+### 1. Prompt
+
+A prompt is the instruction we give to an AI model.
+
+**Example:**  
+I ask an AI, *"Write a professional LinkedIn summary for a Machine Learning Engineer."* The sentence I give is the prompt.
+
+### 2. Token
+
+A token is a small piece of text that an AI reads and processes.
+
+**Example:**  
+When I type **"Learn Python step by step"**, the AI breaks the sentence into smaller pieces (tokens) before understanding and generating a response.
+
+### 3. Embedding
+
+An embedding represents the meaning of text as numbers so that similar ideas are close to each other.
+
+**Example:**  
+In a recipe app, if I search for **"quick pasta dinner"**, embeddings can also recommend recipes like **"easy spaghetti"** or **"15-minute creamy pasta"** because they have a similar meaning, even though the words are different.

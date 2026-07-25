@@ -38,11 +38,14 @@ If an AI writing application depends on an external API and that service becomes
 
 ## Two Models and Their Use Cases
 
-### GPT vs Whisper
+### Claude vs Gemini
 
-**GPT** is better for tasks that involve understanding and generating text, such as answering questions, writing emails, summarizing documents, or helping with coding.
+**Claude** is a better choice when working with very long documents because it has a large context window. It can understand long reports, manuals, or multiple files while keeping the conversation consistent.
 
-**Whisper** is better for speech-to-text tasks because it converts spoken audio into written text accurately.
+**Gemini** is a better choice when a project needs to work with different types of data, such as text, images, audio, and video. It is designed for strong multimodal capabilities and also supports a very large context window.
 
-**Scenario Example:**  
-If I want to build an AI study assistant that answers students' questions, I would choose **GPT** because it understands and generates natural language. If I want an app that converts recorded lectures into notes, I would choose **Whisper** because it is designed for speech transcription.
+**Scenario Example:**
+
+If I build a company knowledge assistant that needs to read hundreds of pages of policies and answer employee questions, I would choose **Claude** because it handles long documents very well.
+
+If I build a learning app where users upload images, ask questions about diagrams, and interact with videos and text in one place, I would choose **Gemini** because it is designed for multimodal tasks and can process different types of information together.
